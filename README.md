@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋, my name is Frank
+I am a Computer Science graduate.<br />
+I love Networking. The one with the switches and routers, not the talking to people one lol.
+My github account is dedicated to storing my projects some of which are broken on purpose so feel free to fix them.<br />
+I love cloud, to be honest i just started so, i think i love cloud, i want to love cloud lol.<br />
+I love learning and i realize that is a never ending journey especially in the field i have decided to enter.<br />
+If you love the things i do, let's learn together!
+
+- [frank.io on X](https://x.com/frank__io)
+- [Frank Ikwuegbu on LinkedIn](https://t.co/EBugPmc8cU)
+- [frank.io on Medium](https://t.co/4YUQcc4QFY)
 
 <!--
 **frankikwuegbu/frankikwuegbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
